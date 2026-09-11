@@ -763,3 +763,13 @@ footer p {
 .card-label {
   color: #b18a45;
 }
+.btn-light {
+  background: #ffffff;
+  color: #172033 !important;
+  border: 1px solid #ffffff;
+}
+
+.btn-light:hover {
+  background: #b18a45;
+  color: #ffffff !important;
+}
