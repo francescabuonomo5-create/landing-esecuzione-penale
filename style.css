@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
 
 :root {
-  --ink: #1c1c1b;
-  --muted: #6e6b66;
-  --paper: #f8f6f1;
+  --ink: #17263d;
+  --muted: #5d6878;
+  --paper: #f5f3ee;
   --white: #ffffff;
-  --line: #dedad2;
-  --accent: #a47b45;
-  --accent-dark: #856037;
-  --dark: #1c1c1b;
-  --beige: #eeeae2;
+  --line: #d9d6cf;
+  --accent: #b08a45;
+  --accent-dark: #8d6b32;
+  --dark: #17263d;
+  --beige: #e9e5dc;
 }
 
 * {
