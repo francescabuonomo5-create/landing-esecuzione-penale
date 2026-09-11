@@ -696,3 +696,70 @@ footer p {
     flex-direction: column;
   }
 }
+/* FOTO PROFILO HERO */
+.hero-card {
+  padding: 0;
+  background: transparent;
+  border: none;
+  overflow: hidden;
+}
+
+.hero-photo {
+  width: 100%;
+  height: 560px;
+  display: block;
+  object-fit: cover;
+  object-position: center top;
+}
+
+/* COLORI BLU E ORO */
+:root {
+  --ink: #172033;
+  --muted: #667085;
+  --paper: #f7f5f0;
+  --white: #ffffff;
+  --line: #ddd8ce;
+  --accent: #b18a45;
+  --accent-dark: #8f6c32;
+  --dark: #172033;
+  --beige: #eee9df;
+}
+
+.btn-primary {
+  background: #b18a45;
+  border-color: #b18a45;
+  color: #ffffff;
+}
+
+.btn-primary:hover {
+  background: #8f6c32;
+  border-color: #8f6c32;
+}
+
+.btn-dark {
+  background: #172033;
+  color: #ffffff;
+}
+
+.btn-dark:hover {
+  background: #26344d;
+}
+
+.hero {
+  background: #f7f5f0;
+}
+
+.section.light {
+  background: #eee9df;
+}
+
+.hero h1,
+.section h2 {
+  color: #172033;
+}
+
+.eyebrow,
+.section-kicker,
+.card-label {
+  color: #b18a45;
+}
